@@ -72,19 +72,27 @@ h1 {
 }
 
 #left-join {
-    padding-top: 30px;
     float: left;
     width:33%
 }
 
+#left-join-img {
+    height: 100%;
+    width: 100%;
+}
+
+#left-img {
+    height: 100px;
+    position: relative;
+}
+
 #right-join {
-    padding-top: 30px;
     float: right;
     width: 33%;
 }
 
 #center-join {
-    padding-top: 30px;
+    display: inline-block;
     margin: 0 auto;
     width: 33%;
 }
