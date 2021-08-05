@@ -129,7 +129,7 @@ section div h3 {
 
 #fall-img {
     float: left;
-    height: 600px;
+    height: 500px;
     width: 70%;
     box-sizing: border-box;
     overflow: hidden;
@@ -140,6 +140,26 @@ section div h3 {
     float: right;
     background: black;
     width: 30%;
-    height: 600px;
+    height: 500px;
     box-sizing: border-box;
+}
+
+#heading-two-fall {
+    color: red;
+    text-align: center;
+    font-size: 200%;
+    padding-top: 150px;
+}
+
+#heading-three-fall {
+    color: rgba(255, 217, 0, 0.767);
+    text-align: center;
+    font-size: 120%;
+    padding-top: 30px;
+}
+
+#paragraph-fall {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
 }
