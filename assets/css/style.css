@@ -131,8 +131,9 @@ section div h3 {
     float: left;
     height: 600px;
     width: 70%;
+    box-sizing: border-box;
     overflow: hidden;
-    background: url(../images/The-Fall-of-The-Western-Roman-Empire.jpg) no repeat
+    background: url(../images/The-Fall-of-The-Western-Roman-Empire.jpg)
 }
 
 #fall-text {
