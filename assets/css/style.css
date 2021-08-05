@@ -65,15 +65,22 @@ h1 {
 
 #club {
     height: 400px;
-
 }
 
 #left-join {
     padding-top: 30px;
     float: left;
-    width:33%
+    width:33%s
 }
 
+#left-join-img {
+    background: url(../images/left-join\ image.jpg);
+}
+
+#left-join-img {
+    height: 50px;
+    width: 50px;
+}
 #center-join {
     padding-top: 30px;
     margin: 0 auto;
