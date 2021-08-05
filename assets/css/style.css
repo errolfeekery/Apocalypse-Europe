@@ -89,6 +89,14 @@ h1 {
     width: 33%;
 }
 
+#right-join-img {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
 #center-join {
     display: inline-block;
     margin: 0 auto;
