@@ -63,33 +63,29 @@ h1 {
 
 /* club */
 
+#join-title {
+    text-align: center;
+}
+
 #club {
-    height: 400px;
+    height: 600px;
 }
 
 #left-join {
     padding-top: 30px;
     float: left;
-    width:33%s
-}
-
-#left-join-img {
-    background: url(../images/left-join\ image.jpg);
-}
-
-#left-join-img {
-    height: 50px;
-    width: 50px;
-}
-#center-join {
-    padding-top: 30px;
-    margin: 0 auto;
-    width: 33%;
+    width:33%
 }
 
 #right-join {
     padding-top: 30px;
     float: right;
+    width: 33%;
+}
+
+#center-join {
+    padding-top: 30px;
+    margin: 0 auto;
     width: 33%;
 }
 
