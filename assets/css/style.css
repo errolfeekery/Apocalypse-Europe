@@ -82,3 +82,11 @@ h1 {
     float: right;
     width: 33%;
 }
+
+section div h4 {
+    color: red;
+}
+
+section div h3 {
+    color: black
+}
