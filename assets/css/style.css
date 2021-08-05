@@ -49,5 +49,6 @@ h1 {
 #hero-image {
     height: 500px;
     width: 100%;
+    overflow: hidden;
     background: url(../images/hero\ image.png) center center
 }
