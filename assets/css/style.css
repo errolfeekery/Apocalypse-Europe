@@ -118,3 +118,9 @@ section div h4 {
 section div h3 {
     color: black
 }
+
+hr {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border: 2px solid black;
+}
