@@ -69,16 +69,19 @@ h1 {
 }
 
 #left-join {
+    padding-top: 30px;
     float: left;
     width:33%
 }
 
 #center-join {
+    padding-top: 30px;
     margin: 0 auto;
     width: 33%;
 }
 
 #right-join {
+    padding-top: 30px;
     float: right;
     width: 33%;
 }
