@@ -60,3 +60,25 @@ h1 {
     line-height: 200%;
     background: white;
 }
+
+/* club */
+
+#club {
+    height: 400px;
+
+}
+
+#left-join {
+    float: left;
+    width:33%
+}
+
+#center-join {
+    margin: 0 auto;
+    width: 33%;
+}
+
+#right-join {
+    float: right;
+    width: 33%;
+}
