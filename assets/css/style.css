@@ -77,13 +77,11 @@ h1 {
 }
 
 #left-join-img {
-    height: 100%;
-    width: 100%;
-}
-
-#left-img {
-    height: 100px;
-    position: relative;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
 
 #right-join {
