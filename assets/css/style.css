@@ -47,8 +47,18 @@ h1 {
 }
 
 #hero-image {
-    height: 500px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
     background: url(../images/hero\ image.png) center center
+}
+
+#hero-text {
+    font-family: Arial, Helvetica, sans-serif;
+    color:gold;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 200%;
+    width: 30%;
+    line-height: 200%;
 }
