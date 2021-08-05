@@ -61,6 +61,12 @@ h1 {
     background: white;
 }
 
+hr {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border: 2px solid black;
+}
+
 /* club */
 
 #join-title {
@@ -119,8 +125,20 @@ section div h3 {
     color: black
 }
 
-hr {
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    border: 2px solid black;
+/* Fate of Rome */
+
+#fall-img {
+    float: left;
+    height: 600px;
+    width: 70%;
+    overflow: hidden;
+    background: url(../images/The-Fall-of-The-Western-Roman-Empire.jpg) no repeat
+}
+
+#fall-text {
+    float: right;
+    background: black;
+    width: 30%;
+    height: 600px;
+    box-sizing: border-box;
 }
