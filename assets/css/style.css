@@ -129,10 +129,9 @@ section div h3 {
 
 #fall-img {
     float: left;
-    height: 500px;
+    height: 400px;
     width: 70%;
     box-sizing: border-box;
-    margin-bottom: 40px;
     overflow: hidden;
     background: url(../images/The-Fall-of-The-Western-Roman-Empire.jpg)
 
@@ -142,9 +141,9 @@ section div h3 {
     float: right;
     background: black;
     width: 30%;
-    height: 500px;
+    height: 400px;
     box-sizing: border-box;
-    margin-bottom: 40px;
+    overflow: hidden;
 }
 
 #heading-two-fall {
@@ -170,7 +169,14 @@ section div h3 {
 footer {
     position: fixed;
     bottom: 0;
-    padding: 10px, 10px, 0, 10px;
-    height: 40px;
+    padding-bottom: 20px;
+    height: 20px;
     width: 100%;
+    z-index: 1000;
+    background: rgb(102, 102, 102);
+    text-align: left;
+    display: flex;
+    align-items: center;
+
 }
+
