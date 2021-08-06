@@ -224,8 +224,8 @@ footer {
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 4;
-    column-width: 25%;
+    column-count: 3;
+    column-width: 33%;
     column-gap: 0;
 }
 
