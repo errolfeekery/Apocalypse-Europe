@@ -257,8 +257,20 @@ footer {
 }
 
 #fate-hero-img {
-    height: 400px;
-    width: 100%;
-    overflow: hidden;
-    background: url(../images/SuttonHoo-wikipedia.jpg) center center
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.quote {
+    clear: both;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 10px;
+    font-weight: 800;
+
 }
