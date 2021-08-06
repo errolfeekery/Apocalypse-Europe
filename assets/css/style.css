@@ -169,14 +169,30 @@ section div h3 {
 footer {
     position: fixed;
     bottom: 0;
-    padding-bottom: 20px;
-    height: 20px;
+    height: 40px;
     width: 100%;
     z-index: 1000;
     background: rgb(102, 102, 102);
     text-align: left;
     display: flex;
     align-items: center;
+}
 
+#footer-span {
+    color: white;
+    margin-left: 10%;
+}
+
+#footer-links {
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 15px;
+    letter-spacing: 2px;
+    margin-left: 120px;
+}
+
+#footer-links a:hover {
+    background-color: teal;
 }
 
