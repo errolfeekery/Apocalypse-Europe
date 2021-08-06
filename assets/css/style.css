@@ -219,3 +219,16 @@ footer {
     background-color: teal;
 }
 
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-width: 25%;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
+}
