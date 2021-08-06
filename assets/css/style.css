@@ -170,6 +170,8 @@ section div p {
 }
 
 #heading-two-fall {
+    text-decoration: none;
+    list-style: none;
     color: red;
     text-align: center;
     font-size: 200%;
