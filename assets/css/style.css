@@ -72,11 +72,13 @@ hr {
 /* club */
 
 #join-title {
+    color: #3a3a3a;
     text-align: left;
     font-family: Roboto, sans-serif;
     font-size: 200%;
-    font-weight: 500;
     padding-left: 20px;
+    padding-bottom: 20px;
+    margin-top: 0%;
 }
 
 #club {
@@ -89,11 +91,11 @@ hr {
 }
 
 #left-join-img {
-    height: 200px;
+    height: 250px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 90%;
 }
 
 #right-join {
@@ -102,11 +104,11 @@ hr {
 }
 
 #right-join-img {
-    height: 200px;
+    height: 250px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 90%;
 }
 
 #center-join {
@@ -116,19 +118,34 @@ hr {
 }
 
 #center-join-img {
-    height: 200px;
+    height: 250px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 90%;
 }
 
 section div h4 {
+    font-family: Arial, Helvetica, sans-serif;
     color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
 }
 
 section div h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
     color: black
+}
+
+section div p {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;  
+    font-size: 120%;
 }
 
 /* Fate of Rome */
