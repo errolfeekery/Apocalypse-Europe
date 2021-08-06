@@ -234,3 +234,31 @@ footer {
 #photos > img {
     width: 100%;
 }
+
+/* Fate of Europe */
+
+#fate-h1 {
+    clear: both;
+    text-align: center;
+    font-family: Open-Sans, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:black;
+}
+
+#fate-h2 {
+    clear: both;
+    text-align: center;
+    font-family: Open-Sans, san-serif;
+    padding-bottom: 20px;
+    color: red;
+    letter-spacing: 4px;
+    font-size: 300%;
+}
+
+#fate-hero-img {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    background: url(../images/SuttonHoo-wikipedia.jpg) center center
+}
