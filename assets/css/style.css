@@ -336,5 +336,11 @@ fieldset {
 
 #signup-body {
     background: url(../images/roman-forum-lonely-plant.jpg)
-    
+}
+
+#signup-form {
+    float: left;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
 }
