@@ -308,14 +308,18 @@ footer {
 /* Further listening */
 
 #further-listening {
-    width: 66%;
+    width: 50%;
     float: right;
-    border: 1px solid black;
+    border-left: 1px solid black;
     margin-top: 20px;
+    margin-left: 20px;
     height: 400px;
 }
 
 #icon-recommend {
     clear: both;
-    text-align: center;
+    width: 50%;
+    margin: auto;
+    font-size: 40px;
+    padding-top: 20px;
 }
