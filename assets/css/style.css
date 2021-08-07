@@ -415,7 +415,7 @@ footer {
 /* signup */
 
 fieldset {
-    border: 2px solid black;
+    border: 2px solid purple;
     border-radius: 2px;
 }
 
@@ -424,11 +424,12 @@ fieldset {
 }
 
 #signup-form {
-    float: left;
+    overflow: hidden;
+    display: block;
     width: 30%;
     margin-right: auto;
     margin-left: auto;
-    background: rgba(0, 189, 189, 0.5);
+    background: rgba(0, 189, 189, 0.288);
 }
 
 .text-input {
@@ -436,10 +437,13 @@ fieldset {
     margin-top: 10px;
     margin-bottom: 10px;
     border-radius: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
 
 .text-input:hover {
-    border-color: #3a3a3a;
+    border-color: rgba(0, 189, 189, 0.5);
 }
 
 .radio-button {
@@ -452,6 +456,6 @@ fieldset {
     font-size: 20px;
     text-align: center;
     background-color: transparent;
-    border: 2px solid black;
+    border: 2px solid purple;
     padding: 15px, 32px, 15px, 32px; 
 }
