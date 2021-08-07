@@ -429,7 +429,6 @@ fieldset {
     width: 30%;
     margin-right: auto;
     margin-left: auto;
-    background: rgba(0, 189, 189, 0.288);
 }
 
 .text-input {
@@ -439,11 +438,11 @@ fieldset {
     border-radius: 2px;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 60%;
 }
 
 .text-input:hover {
-    border-color: rgba(0, 189, 189, 0.5);
+    background-color: white;
 }
 
 .radio-button {
@@ -454,8 +453,20 @@ fieldset {
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 20px;
+    font-family: Roboto;
     text-align: center;
-    background-color: transparent;
+    border-radius: 2px;
     border: 2px solid purple;
-    padding: 15px, 32px, 15px, 32px; 
+    padding: 15px, 32px, 15px, 32px;
+    font-weight: 600; 
+    background: rgba(128, 0, 128, 0.288);
+}
+
+#form-signup {
+    font-weight: 1000;
+    background: rgba(0, 189, 189, 0.452);
+}
+
+#signup-heading {
+    text-align: center;
 }
