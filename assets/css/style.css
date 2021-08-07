@@ -178,6 +178,7 @@ section div p {
     height: 400px;
     box-sizing: border-box;
     overflow: hidden;
+    padding-top: 50px;
 }
 
 #heading-two-fall {
@@ -187,19 +188,20 @@ section div p {
     text-align: center;
     font-size: 200%;
     padding-top: 150px;
+    vertical-align: middle;
 }
 
 #heading-three-fall {
     color: rgba(255, 217, 0, 0.767);
     text-align: center;
     font-size: 120%;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 #paragraph-fall {
     color: white;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 footer {
