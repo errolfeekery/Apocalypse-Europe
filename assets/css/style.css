@@ -6,6 +6,10 @@
     border: none;
 }
 
+header {
+    clear: both;
+}
+
 body {
     font-family: Open-Sans, sans-serif;
     color: #3a3a3a;
@@ -322,4 +326,10 @@ footer {
     margin: auto;
     font-size: 40px;
     padding-top: 20px;
+}
+
+/* signup */
+
+fieldset {
+    border: 2px solid black;
 }
