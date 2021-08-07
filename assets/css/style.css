@@ -429,6 +429,8 @@ fieldset {
     width: 30%;
     margin-right: auto;
     margin-left: auto;
+    padding: 10px;
+    font-family: Noto Sans Jp;
 }
 
 .text-input {
@@ -450,14 +452,16 @@ fieldset {
 }
 
 .join-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 20px;
-    font-family: Roboto;
+    font-family: Noto Sans Jp;
     text-align: center;
     border-radius: 2px;
     border: 2px solid purple;
-    padding: 15px, 32px, 15px, 32px;
     font-weight: 600; 
     background: rgba(128, 0, 128, 0.288);
 }
@@ -469,4 +473,5 @@ fieldset {
 
 #signup-heading {
     text-align: center;
+    margin-bottom: 20px;
 }
