@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto:ital,wght@1,100&display=swap');
 
 * {
     margin: 0;
@@ -11,7 +11,7 @@ header {
 }
 
 body {
-    font-family: Open-Sans, sans-serif;
+    font-family: Roboto, sans-serif;
     color: #3a3a3a;
 }
 
@@ -30,6 +30,7 @@ h1 {
 #menu {
     font-size: 120%;
     letter-spacing: 2px;
+    font-weight: 1000;
 }
 
 #menu, #logo {
@@ -58,6 +59,12 @@ h1 {
     background: url(../images/hero\ image.png) center center
 }
 
+.hero-outer {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #hero-text {
     font-size: 200%;
     width: 28%;
@@ -79,7 +86,7 @@ hr {
     color: #3a3a3a;
     text-align: left;
     font-family: Roboto, sans-serif;
-    font-size: 200%;
+    font-size: 150%;
     padding-left: 20px;
     padding-bottom: 20px;
     margin-top: 0%;
@@ -130,7 +137,7 @@ hr {
 }
 
 section div h4 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     color: red;
     margin-left: 20px;
     margin-right: 20px;
@@ -138,7 +145,7 @@ section div h4 {
 }
 
 section div h3 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Noto Sans Jp, sans-serif;
     margin-left: 20px;
     margin-right: 20px;
     color: black
@@ -148,7 +155,7 @@ section div p {
     margin-left: 20px;
     margin-right: 20px;
     padding-bottom: 20px;
-    font-family: 'Times New Roman', Times, serif;  
+    font-family: Noto Sans Jp, sans-serif;  
     font-size: 120%;
 }
 
