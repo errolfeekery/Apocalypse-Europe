@@ -159,6 +159,10 @@ section div p {
     font-size: 120%;
 }
 
+#p-books {
+    padding-top: 30px;
+}
+
 /* Fate of Rome */
 
 #fall-img {
@@ -301,6 +305,7 @@ footer {
 
 #article {
     margin-top: 20px;
+    margin-left: 20px;
     float: left;
     width: 33%;
     height: 400px;
@@ -318,10 +323,21 @@ footer {
     width: auto;
 }
 
+#portrait-link {
+    text-decoration: none;
+    list-style: none;
+    color: red;
+    padding-left: 10px;
+}
+
+.photo-text {
+    text-align: center;
+}
+
 /* Further listening */
 
 #further-listening {
-    width: 50%;
+    width: 60%;
     float: right;
     border-left: 1px solid black;
     margin-top: 20px;
@@ -332,11 +348,25 @@ footer {
 #icon-recommend {
     clear: both;
     width: 50%;
+    display: block;
     margin: auto;
     font-size: 40px;
-    padding-top: 20px;
 }
 
+#further-icon {
+    color: black;
+}
+
+#recommend-span{
+    padding-left: 40px;
+    color: rgb(206, 1, 1);
+}
+
+#p-further {
+    font-size: 100%;
+    font-family: Noto Sans Jp;
+    font-weight: 1000;
+}
 /* signup */
 
 fieldset {
