@@ -354,11 +354,13 @@ footer {
     text-decoration: none;
     list-style: none;
     color: red;
-    padding-left: 10px;
+    padding-left: 5%;
 }
 
 .photo-text {
-    text-align: center;
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 #sutton-p {
@@ -387,8 +389,9 @@ footer {
 }
 
 #recommend-span{
-    padding-left: 40px;
+    padding-left: 30px;
     color: rgb(206, 1, 1);
+    letter-spacing: 2px;
 }
 
 #p-further {
