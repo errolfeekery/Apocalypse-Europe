@@ -222,7 +222,7 @@ footer {
 }
 
 #footer-links a:hover {
-    background-color: teal;
+    border: 2px solid black;
 }
 
 /* gallery */
@@ -332,6 +332,7 @@ footer {
 
 fieldset {
     border: 2px solid black;
+    border-radius: 2px;
 }
 
 #signup-body {
@@ -343,5 +344,30 @@ fieldset {
     width: 30%;
     margin-right: auto;
     margin-left: auto;
-    background: #3a3a3a69;
+    background: rgba(0, 189, 189, 0.5);
+}
+
+.text-input {
+    background-color: transparent;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #3a3a3a;
+}
+
+.radio-button {
+    margin-top: 10px;
+}
+
+.join-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid black;
+    padding: 15px, 32px, 15px, 32px; 
 }

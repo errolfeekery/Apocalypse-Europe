@@ -15,50 +15,51 @@
         <a href="index.html">
             <h1 id="logo">Apocalypse Europe:</h1>
         </a>
-        <nav>
-            <ul id="menu">
-                <li>
-                    <a href="./signup.html" target="_blank">Join Club</a>
-                </li>
-                <li>
-                    <a href="#">Further listening</a>
-                </li>
-                <li>
-                    <a href="./gallery.html" target="_blank">Gallery</a>
-                </li>
-                <li>
-                    <a href="#about">About</a>
-                </li>
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-            </ul>
-        </nav>
+    <nav>
+        <ul id="menu">
+            <li>
+                <a href="./signup.html">Join Club</a>
+            </li>
+            <li>
+                <a href="./index.html">Further listening</a>
+            </li>
+            <li>
+                <a href="./gallery.html">Gallery</a>
+            </li>
+            <li>
+                <a href="./index.html">About</a>
+            </li>
+            <li>
+                <a href="./index.html">Home</a>
+            </li>
+        </ul>
+    </nav>
     </header>
     <section id="signup-form">
         <form action="#" method="post"><h2>Sign up</h2>
         <fieldset>
             <legend>Your details</legend>
         <label for="user">First Name</label>
-        <input type="text" id="user" name="fname" required>
+        <input type="text" id="user" name="fname" required class="text-input">
             <br>
         <label for="user">Last Name</label>
-        <input type="text" id="user" name="lname" required>
+        <input type="text" id="user" name="lname" required class="text-input">
         </fieldset>
         <fieldset>
             <legend>Contact Information</legend>
         <label for="email">Email</label>
-        <input type="text" id="email" name="email_address" required>
+        <input type="text" id="email" name="email_address" required class="text-input">
     </fieldset>
     <fieldset>
         <legend>How can we help</legend>
-        <input type="checkbox" name="accept_terms1" value="yes" checked>
+        <input type="checkbox" name="accept_terms1" value="yes" checked class="radio-button">
         <label for="accept_terms-checkbox">I want to join bookclub</label>
 
-        <input type="checkbox" name="accept_terms2" value="yes" checked>
+        <input type="checkbox" name="accept_terms2" value="yes" checked class="radio-button">
         <label for="accept_terms2-checkbox">Give me news I can use</label>
+    
+        <input type="submit" value="Let's go!" class="join-button">
     </fieldset>
-        <input type="submit" value="Let's go!">
     </section>
     <footer>
         <span id="footer-span">Find us on:</span>
