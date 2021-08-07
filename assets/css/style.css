@@ -507,4 +507,29 @@ fieldset {
     #gallery-height {
         height: 0.5em;
     }
+
+    #heading-two-fall {
+        font-size: 95%;
+    }
+
+    #heading-three-fall {
+        font-size: 95%;
+    }
+
+    #paragraph-fall {
+        font-size: 95%;
+    }
+
+    #article {
+        width: 100%;
+        margin: auto 0;
+    }
+
+    #signup-form {
+        float: left;
+    }
+
+    .text-input {
+        width: 40%;
+    }
 }
