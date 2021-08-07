@@ -201,7 +201,6 @@ footer {
     text-align: left;
     display: flex;
     align-items: center;
-    margin-top: 20px;
 }
 
 #footer-span {
@@ -301,6 +300,7 @@ footer {
     display: block;
     margin-left: -75px;
     margin-right: auto;
-    height: 300px;
+    margin-top: -40px;
+    height: 400px;
     width: auto;
 }
