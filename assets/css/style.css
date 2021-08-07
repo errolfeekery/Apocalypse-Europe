@@ -333,3 +333,8 @@ footer {
 fieldset {
     border: 2px solid black;
 }
+
+#signup-body {
+    background: url(../images/roman-forum-lonely-plant.jpg)
+    
+}
