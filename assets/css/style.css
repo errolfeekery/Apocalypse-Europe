@@ -535,7 +535,7 @@ fieldset {
     }
 
     #signup-form {
-        float: right;
+        width: 50%;
     }
 
     .text-input {
@@ -604,5 +604,13 @@ fieldset {
     #right-join-img{
         display: none;
     }
-}
 
+    #photo-text {
+        font-size: 80%;
+    }
+
+    #further-icon {
+        display: none;
+        
+    }
+}
