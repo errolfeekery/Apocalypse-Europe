@@ -610,7 +610,25 @@ fieldset {
     }
 
     #further-icon {
-        display: none;
-        
+        display: none;   
+    }
+
+    #photos {
+        columns: 3;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+
+    #photos {
+        columns: 2;
+    }
+
+    #article-img {
+        margin-top: -120px;
+    }
+
+    #footer-links {
+        margin-left: 20px;
     }
 }
