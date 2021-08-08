@@ -66,7 +66,7 @@ h1 {
 }
 
 #hero-text {
-    font-size: 200%;
+    font-size: 180%;
     width: 28%;
     line-height: 200%;
     background: white;
@@ -157,10 +157,6 @@ section div p {
     padding-bottom: 20px;
     font-family: Noto Sans Jp, sans-serif;  
     font-size: 120%;
-}
-
-#p-books {
-    padding-top: 30px;
 }
 
 /* Fate of Europe Index */
@@ -341,9 +337,9 @@ footer {
 }
 
 #article-img {
-    background: url(../images/photorealistic-emperors.jpeg);
+    background: url(../images/image-touched.png) no-repeat;
     display: block;
-    margin-left: -75px;
+    margin-left: auto;
     margin-right: auto;
     margin-top: -40px;
     height: 400px;
@@ -354,13 +350,18 @@ footer {
     text-decoration: none;
     list-style: none;
     color: red;
-    padding-left: 5%;
+    padding-left: 10%;
+    font-size: 120%;
+    margin-top: 10px;
 }
 
 .photo-text {
     text-align: left;
-    padding-left: 5%;
+    padding-left: 10%;
     padding-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 110%;
 }
 
 #sutton-p {
@@ -503,9 +504,10 @@ fieldset {
     }
 
     #menu {
-        font-size: small;
+        font-size: 80%;
         line-height: 25px;
         clear: both;
+        letter-spacing: normal;
     }
 
     #gallery-height {
@@ -525,8 +527,11 @@ fieldset {
     }
 
     #article {
-        width: 100%;
-        margin: auto 0;
+        width: 60%;
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     #signup-form {
@@ -536,4 +541,26 @@ fieldset {
     .text-input {
         width: 40%;
     }
+
+    #center-join-img {
+        height: 100%;
+    }
+
+    #right-join-img {
+        height: 100%;
+    }
+
+    #left-join-img {
+        height: 100%;
+        overflow: hidden;
+    }
+
+    .p-about {
+        font-size: 80%;
+    }
+
+    .h-about {
+        font-size: 80%;
+    }
 }
+
