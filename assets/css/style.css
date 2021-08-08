@@ -535,24 +535,16 @@ fieldset {
     }
 
     #signup-form {
-        float: left;
+        float: right;
     }
 
     .text-input {
         width: 40%;
     }
 
-    #center-join-img {
-        height: 100%;
-    }
-
-    #right-join-img {
-        height: 100%;
-    }
-
-    #left-join-img {
-        height: 100%;
-        overflow: hidden;
+    .join-img {
+        max-width: 100%;
+        height: auto;
     }
 
     .p-about {
@@ -561,6 +553,19 @@ fieldset {
 
     .h-about {
         font-size: 80%;
+    }
+
+    #fate-hero-img {
+        height: 50%;
+        border-right: none;
+        clear: both;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sutton-p {
+        display: none;
     }
 }
 
