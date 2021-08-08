@@ -543,8 +543,7 @@ fieldset {
     }
 
     .join-img {
-        max-width: 100%;
-        height: auto;
+        width: 100%;
     }
 
     .p-about {
@@ -565,6 +564,44 @@ fieldset {
     }
 
     #sutton-p {
+        display: none;
+    }
+
+    #footer-links {
+        margin-left: 40px;
+    }
+
+    #footer-span {
+        display: none;
+    }
+
+    #about-section {
+        height: 10%;
+    }
+}
+
+@media screen and (max-width: 950px) {
+
+    #menu {
+        font-size: 60%;
+        line-height: 25px;
+        clear: both;
+        letter-spacing: normal;
+    }
+
+    #menu li {
+        margin-right: 15px;
+    }
+
+    #left-join-img {
+        display: none;
+    }
+
+    #center-join-img {
+        display: none;
+    }
+
+    #right-join-img{
         display: none;
     }
 }
