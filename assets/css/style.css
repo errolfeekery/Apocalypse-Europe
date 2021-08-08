@@ -420,6 +420,7 @@ footer {
 fieldset {
     border: 2px solid purple;
     border-radius: 2px;
+    padding: 10px;
 }
 
 #signup-body {
@@ -437,7 +438,6 @@ fieldset {
 }
 
 .text-input {
-    background-color: transparent;
     margin-top: 10px;
     margin-bottom: 10px;
     border-radius: 2px;
@@ -460,18 +460,22 @@ fieldset {
     margin-right: auto;
     margin-top: 10px;
     margin-bottom: 10px;
+    padding: 5px 10px;
     font-size: 20px;
     font-family: Noto Sans Jp;
     text-align: center;
     border-radius: 2px;
     border: 2px solid purple;
-    font-weight: 600; 
-    background: rgba(128, 0, 128, 0.288);
+    font-weight: 600;
+    color: white; 
+    background: purple;
 }
 
 #form-signup {
     font-weight: 1000;
-    background: rgba(0, 189, 189, 0.452);
+    background: rgb(0, 189, 189, 0.9);
+    padding: 20px;
+    border-radius: 3px;
 }
 
 #signup-heading {
