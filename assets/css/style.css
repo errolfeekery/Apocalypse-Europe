@@ -221,7 +221,7 @@ footer {
     margin-left: 10%;
 }
 
-#footer-links {
+.footer-links {
     color: white;
     list-style-type: none;
     text-decoration: none;
@@ -248,7 +248,7 @@ footer {
     width: 100%;
 }
 
-#gallery-height {
+.gallery-height {
     height: 350px;
 }
 
