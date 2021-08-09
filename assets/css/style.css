@@ -495,9 +495,7 @@ fieldset {
         margin-top: 20px;
     }
 
-    #further-listening {
-        width: 100%;
-    }
+
 
     #hero-text {
         font-size: small;
@@ -557,8 +555,7 @@ fieldset {
     #fate-hero-img {
         height: 50%;
         border-right: none;
-        clear: both;
-        display: block;
+        float: right;
         margin-left: auto;
         margin-right: auto;
     }
@@ -622,10 +619,6 @@ fieldset {
 
     #photos {
         columns: 2;
-    }
-
-    #article-img {
-        margin-top: -120px;
     }
 
     #footer-links {
