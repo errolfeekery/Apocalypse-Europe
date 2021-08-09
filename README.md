@@ -28,13 +28,46 @@ Users of the club will be able to find all the information about Apocalypse Euro
 
   *This section shows the user there is social and content incentives for fans of history podcasts.
 
-  [Screenshot for About section](assets/images/Screenshot(3).png)
+![Screenshot for About section](assets/images/Screenshot(3).png)
 
-  *The Sign Up Form
+*The Gallery
 
-    *The Sign Up section has a form to collect information from users who wish to join the club.
+  *The Gallery section is an assortment of chosen images relating to the history of Rome.
+
+  *This webpage is designed to immerse the user in facinating historical images and modivate them to explore the site further.
+
+![Screenshot for Gallery section](assets/images/Screenshot(5).png)
+
+*The Fate of Europe section
+
+  *This section offers the user regular original content regarding a the history of a European country following the fall of Rome.
+
+  *Here the user has the opportunity to learn new history that continues from where the podcast ended.
+
+![Screenshot for Fate of Europe section](assets/images/Screenshot(7).png)
+
+*The Further Listening section
+
+  *This section includes two pieces. 
+
+  1. Photoreal rendered images of Roman emperors by Daniel Voshart - an amazing page that uses a variety of technologies to create digital images of what Principate emperors would have looked like.
+  2. An embedded youtube video discussion between Patrick Wyman, author of the fall of Rome series and Mike Duncan, author of the History of Rome podcast series.
+
+  *This section offers further historical content to entice the user to join the club and become familiar with the work of historical podcasters.
+
+![Screenshot of Further Listening section](assets/images/Screenshot(6).png)
+
+*The Sign Up Form
+
+  *The Sign Up section has a form to collect information from users who wish to join the club.
 
     *The form collects the users name and email, aswell as whether they want to join the bookclub or suscribe to the news emails.
+
+![Screenshot for Signup section](assets/images/Screenshot(4).png)
+
+
+
+
 
 
 
