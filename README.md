@@ -85,13 +85,13 @@ Users of the club will be able to find all the information about Apocalypse Euro
 
 ## Validator testing
 
-*HTML
-  *The only error detected in HTML testing was in regard to the sign up form which when submitted didn't have a server to contact.
+* HTML
+  * The only error detected in HTML testing was in regard to the sign up form which when submitted didn't have a server to contact.
 
-*CSS
-  *One error was detected in the CSS regarding the column width in the gallery which I was unable to resolve.
+* CSS
+  * One error was detected in the CSS regarding the column width in the gallery which I was unable to resolve.
 
-![Screenshot of Lighthouse performance test](assets/images/Screenshot(8).png)
+![Screenshot of Lighthouse performance test](http://assets/images/Screenshot(8).png)
 
 
 
